@@ -25,7 +25,7 @@ CarbonTrack Pro solves critical ESG compliance challenges for companies by provi
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/your-company/carbon-track-pro.git
+git clone https://github.com/joelantoniov/carbon-track-pro.git
 cd carbon-track-pro
 
 # Setup environment
