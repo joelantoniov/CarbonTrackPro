@@ -6,7 +6,7 @@
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5.0-orange.svg)]()
 
 ### Business Problem
-CarbonTrack Pro solves critical ESG compliance challenges for Fortune 500 companies by providing real-time carbon emissions monitoring, automated regulatory reporting, and predictive analytics for environmental optimization.
+CarbonTrack Pro solves critical ESG compliance challenges for companies by providing real-time carbon emissions monitoring, automated regulatory reporting, and predictive analytics for environmental optimization.
 
 ### Architecture
 - **Real-time Data Ingestion**: Kafka + IoT sensors
